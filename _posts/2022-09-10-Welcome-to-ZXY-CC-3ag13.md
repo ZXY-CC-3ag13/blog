@@ -14,8 +14,11 @@ int main(void) {
 {% endhighlight %}
 
 > Check out the [Portfolio][portfolio] for my general portfolio.
+
 > Check out my [GitHub][github] for my repositories.
+
 > Check out my [Twitter][twitter] for things I post.
+
 > Check out my [stackoverflow][stackoverflow] for my knowledge.
 
 [portfolio]: https://zxy-cc-3ag13.github.io/
