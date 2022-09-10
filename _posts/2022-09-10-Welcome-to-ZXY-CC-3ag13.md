@@ -1,6 +1,7 @@
 ---
 title: "Welcome to ZXY-CC-3ag13's Blog"
 layout: post
+comments: true
 ---
 
 Welcome to all the readers to my first blog.
