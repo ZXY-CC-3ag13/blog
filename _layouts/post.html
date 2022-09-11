@@ -6,9 +6,8 @@ comments: true
 <article>
   {% include meta.html post=page %}
   {{ content }}
-  {% if page.comments != false and site.comments.isso or site.comments.disqus %}
+  {% if page.comments or site.comments.disqus %}
   <hr>
-  {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
   {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>
   <script>
     /**
