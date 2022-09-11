@@ -6,18 +6,18 @@ comments: true
 <article>
   {% include meta.html post=page %}
   {{ content }}
-  {% if page.comments or site.comments.disqus %}
   <hr>
-  {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>
+  {% if page.comments %}
+  <div id="disqus_thread"></div>
   <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     
-    // var disqus_config = function () {
-    // this.page.url = "https://zxy-cc-3ag13.github.io/blog/{{ post.url | relative_url }}";
-    // this.page.identifier = "{{ post.url | relative_url }}";
-    // };
+    var disqus_config = function () {
+    this.page.url = "https://zxy-cc-3ag13.github.io/blog/{{ post.url | relative_url }}";
+    this.page.identifier = "{{ post.url | relative_url }}";
+    };
     
     (function () { // DON'T EDIT BELOW THIS LINE
       var d = document, s = d.createElement('script');
@@ -26,7 +26,6 @@ comments: true
       (d.head || d.body).appendChild(s);
     })();
   </script>
-  {% endif %}
   <noscript>Please enable JavaScript to view comments.</noscript>
   {% endif %}
 </article>
