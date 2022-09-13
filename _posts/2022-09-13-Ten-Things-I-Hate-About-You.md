@@ -24,18 +24,18 @@ comments: true
 
 **Mr. Morgan** : *[rolls his eyes and sighs]*  Lord, here we go.
 
-    **Kat Stratford** : I hate the way you talk to me, and the way you cut your hair. I hate the way you drive my car. I hate it when you stare. I hate your big dumb combat boots, and the way you read my mind. I hate you so much it makes me sick; it even makes me rhyme.
+**Kat Stratford** : I hate the way you talk to me, and the way you cut your hair. I hate the way you drive my car. I hate it when you stare. I hate your big dumb combat boots, and the way you read my mind. I hate you so much it makes me sick; it even makes me rhyme.
 
 *[sighs]*
 
-    **Kat Stratford** : I hate it, I hate the way you're always right. I hate it when you lie. I hate it when you make me laugh, even worse when you make me cry.
+**Kat Stratford** : I hate it, I hate the way you're always right. I hate it when you lie. I hate it when you make me laugh, even worse when you make me cry.
 
 *[Kat's voice breaks and she looks at Patrick]* 
 
-    **Kat Stratford** : I hate it when you're not around, and the fact that you didn't call.
+**Kat Stratford** : I hate it when you're not around, and the fact that you didn't call.
 
 *[starts to cry]* 
 
-    **Kat Stratford** : But mostly I hate the way I don't hate you. Not even close, not even a little bit, not even at all.
+**Kat Stratford** : But mostly I hate the way I don't hate you. Not even close, not even a little bit, not even at all.
 
 *[Kat walks out the classroom]* 
