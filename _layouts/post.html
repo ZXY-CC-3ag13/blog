@@ -15,8 +15,8 @@ comments: true
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     
     var disqus_config = function () {
-    this.page.url = "https://zxy-cc-3ag13.github.io/blog{{ post.url }}";
-    this.page.identifier = "{{ post.url }}";
+    this.page.url = '{{ page.url | absolute_url }}';
+    this.page.identifier = '{{ page.url | absolute_url }}';
     };
     
     (function () { // DON'T EDIT BELOW THIS LINE
