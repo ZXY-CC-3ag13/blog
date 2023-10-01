@@ -1,5 +1,5 @@
 ---
-title: "Welcome to ZXY-CC-3ag13's Blog"
+title: "Welcome to Chandan Shakya's Blog"
 layout: post
 comments: true
 ---
@@ -22,7 +22,7 @@ int main(void) {
 
 > Check out my [stackoverflow][stackoverflow] for my knowledge.
 
-[portfolio]: https://zxy-cc-3ag13.github.io/
+[portfolio]: https://ChandanShakya.com.np/
 [twitter]: https://twitter.com/zxy_cc_3ag13
-[github]: https://github.com/ZXY-CC-3ag13
-[stackoverflow]: https://stackoverflow.com/users/104748/zxy-cc-3ag13
+[github]: https://github.com/ChandanShakya
+[stackoverflow]: https://stackoverflow.com/users/18991653

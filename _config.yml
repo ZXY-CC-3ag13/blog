@@ -1,6 +1,6 @@
-title: "ZXY-CC-3ag13's Blog"
-author: "ZXY-CC-3ag13"
-description: "Copyright © ZXY-CC-3ag13 2022"
+title: "Chandan Shakya's Blog"
+author: "Chandan Shakya"
+description: "Copyright © Chandan Shakya 2023"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,15 +17,15 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {title: Portfolio, url: "https://zxy-cc-3ag13.github.io"}
+  - {title: Portfolio, url: "https://ChandanShakya.com.np"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "https://zxy-cc-3ag13.github.io/#contact"}
-  - {title: Github, icon: github, url: "https://github.com/ZXY-CC-3ag13/"}
+  - {title: Mail, icon: envelope, url: "https://ChandanShakya.com.np/#contact"}
+  - {title: Github, icon: github, url: "https://github.com/ChandanShakya/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-disqus_shortname: "zxy-cc-3ag13"    # see https://disqus.com/
+disqus_shortname: "zxycc3ag13"    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:

@@ -1,3 +1,5 @@
-# ZXY-CC-3ag13.github.io Blogs
+# ChandanShakya.github.io Blogs
+
+# ChandanShakya.com.np Blogs
 
 Personal Blog Page
