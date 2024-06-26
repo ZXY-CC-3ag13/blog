@@ -4,9 +4,6 @@ layout: post
 comments: true
 ---
 
-
-# SQL Conventions for Laravel
-
 1. **Table Names:**
    - Plural, snake_case (e.g., `users`, `posts`)
 
